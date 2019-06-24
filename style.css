@@ -1,0 +1,42 @@
+h1{
+    color:blue
+    }
+    .text-blue{
+    color:green
+    }
+    .pictures-me{
+        width: 500px;
+        height: 400px;
+    }
+    .head-div{
+    width: 400px;
+    height: 200px;
+    background-color:brown;
+    margin:20px;
+    float: left;
+    }
+    .head-div>p{
+    color: #030202
+    padding: 20px
+    }
+.Des{
+    font-size: 200%;
+    font-style: italic;
+    font-family: Georgia;
+     }
+.Vince{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium';
+}
+.D{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium';
+}
+.Dd{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium';
+}
+.P{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium';
+}
